@@ -27,6 +27,7 @@
         <?php
             if(isset($_POST['selected_question']))
             {
+                echo $_POST['selected_question'].'<br />' ;
                 $bdd = new PDO('mysql:host=localhost;dbname=faq;charset=utf8', 'root', '');
                 // récupération du contenu de la table faq
                 $resp_query = $bdd->query('SELECT * FROM faq_alq WHERE questions="' . $_POST['selected_question'] . '"');
