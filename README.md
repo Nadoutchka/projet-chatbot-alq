@@ -1,5 +1,5 @@
 # projet-chatbot-alq
-architecture logicielle et qualité
+projet d'architecture logicielle et qualité
 
 Guide de lancement de l'application :
 
