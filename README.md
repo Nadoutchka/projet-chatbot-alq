@@ -3,7 +3,7 @@ projet d'architecture logicielle et qualité
 
 Guide de lancement de l'application :
 
-Pour tester notre projet, il faut au préalable avoir installé Node.js ainsi que le paquet npm (qui est normalement inclut dans l’installation de Node.js).
+Pour tester notre projet, il faut au préalable avoir installé Node.js (via le lien : https://nodejs.org/en/) ainsi que le paquet npm qui est normalement inclut dans l’installation de Node.js.
 
 Il vous faudra ensuite installer Angular CLI, il suffit pour cela d’utiliser npm sur un terminal avec la commande suivante :
 npm install -g @angular/cli
