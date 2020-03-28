@@ -11,3 +11,5 @@ npm install -g @angular/cli
 Enfin, dans le dossier contenant notre projet, vous pouvez lancer le serveur node permettant d’exécuter notre application avec la commande :
 ng serve --open
 
+En cas de problème, il peut être utile d'exécuter la commande suivante à la racine du projet :
+npm install
