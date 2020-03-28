@@ -1,7 +1,7 @@
 # projet-chatbot-alq
 architecture logicielle et qualité
 
-Guide d'utilisation de l'application :
+Guide de lancement de l'application :
 
 Pour tester notre projet, il faut au préalable avoir installé Node.js ainsi que le paquet npm (qui est normalement inclut dans l’installation de Node.js).
 
